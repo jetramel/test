@@ -1,5 +1,7 @@
 #include "sdt.h"
 
+// This program is just an example one under VCS.
+
 int main()
 {
 	int a,b;
